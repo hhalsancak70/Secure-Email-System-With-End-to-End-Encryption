@@ -176,4 +176,10 @@ Security Considerations
 - Session-based key management ensures keys are cleared after logout
 - Database migration preserves data integrity while upgrading security
 
-Built by @hhalsancak70 @uteodon @EkinTekin
+## Project Owners
+
+- **[Hüseyin Alsancak](https://github.com/hhalsancak70)**
+- **[Ekin Tekin](https://github.com/EkinTekin)**
+- **[Dilhan Deniz](https://github.com/uteodon)**
+- **[Bekir Erakbıyık](https://github.com/bekirerkbyk)**
+
