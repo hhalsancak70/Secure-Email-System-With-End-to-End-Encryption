@@ -1,4 +1,4 @@
-COMP417 - Secure Email System (Java Console Application)
+Secure Email System (Java Console Application)
 ==========================================================
 
 A secure, end-to-end encrypted email system implemented in Java, featuring robust cryptographic
@@ -175,3 +175,5 @@ Security Considerations
 - Private keys remain encrypted at rest
 - Session-based key management ensures keys are cleared after logout
 - Database migration preserves data integrity while upgrading security
+
+Built by @hhalsancak70 @uteodon @EkinTekin @
