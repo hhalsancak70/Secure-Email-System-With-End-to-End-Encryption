@@ -178,8 +178,8 @@ Security Considerations
 
 ## Project Owners
 
-- **[Hüseyin Alsancak](https://github.com/hhalsancak70)**
-- **[Ekin Tekin](https://github.com/EkinTekin)**
-- **[Dilhan Deniz](https://github.com/uteodon)**
-- **[Bekir Erakbıyık](https://github.com/bekirerkbyk)**
+- **[Hüseyin Alsancak](https://github.com/hhalsancak70)** -
+- **[Ekin Tekin](https://github.com/EkinTekin)** -
+- **[Dilhan Deniz](https://github.com/uteodon)** -
+- **[Bekir Erakbıyık](https://github.com/bekirerkbyk)** -
 
